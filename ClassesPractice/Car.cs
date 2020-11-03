@@ -13,12 +13,12 @@ namespace ClassesPractice
 
         }
 
-        public Car(string make, string model, int year)
-        {
-            Make = make;
-            Model = model;
-            Year = year;
-        }
+        //public Car(string make, string model, int year)
+        //{
+        //    Make = make;
+        //    Model = model;
+        //    Year = year;
+        //}
 
         //Fields
         //Properties
